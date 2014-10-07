@@ -1,4 +1,6 @@
-### Problems Sets for Iteration 1: 
+### Problem Sets for Iteration 1
+_Theme: Hello World Greetings_
+ 
 Problem 1 [VAA-1](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=940)([ o ](https://10.100.1.147/cloudcoder/#exercise?c=26,p=940))
 
 Problem 2  [VAA-2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=941) Problem 3 [VAA-3](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=942) Problem 4 [VAA-4](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=943)
@@ -22,8 +24,6 @@ Problem 19 [F-3](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=958)
 Problem 20 [Palindrome](https:cloudcoder.kgisl.com/cloudcoder/#exercise?c=7,p=855)
 
 
-**Iteration 1**
-_Theme: Hello World Greetings _
 #1 Variables and assignments and arithmetic
 Basic Mathematics 
 - int four = 2 * 2;
