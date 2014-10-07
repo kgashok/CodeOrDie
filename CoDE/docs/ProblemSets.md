@@ -68,7 +68,7 @@ How to test? Need basic **printing** capacity
 #5 Subroutines / Functions
   - Pointers 
     - Swapping two numbers using pointers
-      - swap variables of any size 
+      - **swap** variables of any size 
       - dynamic memory allocation
       - string manipulation (from Anton Spraul)
   - Use a function to swap two numbers
