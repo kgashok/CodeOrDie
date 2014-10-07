@@ -1,5 +1,7 @@
 ### Problems Sets for Iteration 1: 
-Problem 1 [VAA-1](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=940)  Problem 2  [VAA-2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=941) Problem 3 [VAA-3](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=942) Problem 4 [VAA-4](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=943)
+Problem 1 [VAA-1](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=940)([ o ](https://10.100.1.147/cloudcoder/#exercise?c=26,p=940))
+
+Problem 2  [VAA-2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=941) Problem 3 [VAA-3](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=942) Problem 4 [VAA-4](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=943)
 
 Problem 5 [SEQ-1](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=944) Problem 6 [SEQ-2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=945) Problem 7 [SEQ-3](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=946) Problem 8 [SEQ-4](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=947)
 
