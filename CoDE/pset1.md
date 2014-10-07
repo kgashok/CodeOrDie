@@ -18,10 +18,12 @@ Problem 15 [ID-1](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=953)
 Problem 16 [ID-2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=954) 
 Problem 17 [F-1](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=956) 
 Problem 18 [F-2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=955)
-Problem 19 [Palindrome](NYD)
+Problem 19 [F-3](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=958)
+Problem 20 [Palindrome](https:cloudcoder.kgisl.com/cloudcoder/#exercise?c=7,p=855)
 
-####Iteration 1####
-_Theme: Hello World Greetings_
+
+**Iteration 1**
+_Theme: Hello World Greetings _
 #1 Variables and assignments and arithmetic
 Basic Mathematics 
 - int four = 2 * 2;
