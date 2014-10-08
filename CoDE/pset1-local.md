@@ -6,9 +6,9 @@ Problem 2  [VAA-2](https://10.100.1.147/cloudcoder/#exercise?c=26,p=941) Problem
 
 Problem 5 [SEQ-1](https://10.100.1.147/cloudcoder/#exercise?c=26,p=944) Problem 6 [SEQ-2](https://10.100.1.147/cloudcoder/#exercise?c=26,p=945) Problem 7 [SEQ-3](https://10.100.1.147/cloudcoder/#exercise?c=26,p=946) Problem 8 [SEQ-4](https://10.100.1.147/cloudcoder/#exercise?c=26,p=947)
 
-Problem 9 [SEL-1](https://10.100.1.147/cloudcoder/#exercise?c=26,p=949) 
-Problem 10 [SEL-2](https://10.100.1.147/cloudcoder/#exercise?c=26,p=948) 
-Problem 11 [Smallest](https://10.100.1.147/cloudcoder/#exercise?c=26,p=888) 
+Problem 9 [SEL-1](https://10.100.1.147/cloudcoder/#exercise?c=27,p=949) 
+Problem 10 [SEL-2](https://10.100.1.147/cloudcoder/#exercise?c=27,p=948) 
+Problem 11 [Smallest](https://10.100.1.147/cloudcoder/#exercise?c=27,p=888) 
 
 Problem 12a [Natural](https://10.100.1.147/cloudcoder/#exercise?c=28,p=909)
 Problem 12 [DL-1](https://10.100.1.147/cloudcoder/#exercise?c=26,p=950) 
