@@ -18,7 +18,7 @@ _"Programming is the Missing Link in Education"_
       - [Spherly](http://outreach.cs.ua.edu/spherly/)
     - IIT-Kanpur and NASSCOM - online course on C and C++ and DataStructures
     - CS101 (Udacity, Python)
-    - Work on problems in [CloudCoder](http://bit.ly/primeKG))
+    - Work on problems in ([CloudCoder](http://bit.ly/primeKG))
     - CodeWars (Katas and ranks)
     
   - Fundamental Programming Constructs Blitz (is only a beginning)
