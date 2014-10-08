@@ -11,9 +11,9 @@ Problem 10 [SEL-2](https://10.100.1.147/cloudcoder/#exercise?c=27,p=948)
 Problem 11 [Smallest](https://10.100.1.147/cloudcoder/#exercise?c=27,p=888) 
 
 Problem 12a [Natural](https://10.100.1.147/cloudcoder/#exercise?c=28,p=909)
-Problem 12 [DL-1](https://10.100.1.147/cloudcoder/#exercise?c=26,p=950) 
-Problem 13 [DL-2](https://10.100.1.147/cloudcoder/#exercise?c=26,p=951) 
-Problem 14 [DL-3](https://10.100.1.147/cloudcoder/#exercise?c=26,p=952) 
+Problem 12 [DL-1](https://10.100.1.147/cloudcoder/#exercise?c=28,p=950) 
+Problem 13 [DL-2](https://10.100.1.147/cloudcoder/#exercise?c=28,p=951) 
+Problem 14 [DL-3](https://10.100.1.147/cloudcoder/#exercise?c=28,p=952) 
 
 Problem 15 [ID-1](https://10.100.1.147/cloudcoder/#exercise?c=26,p=953) 
 Problem 16 [ID-2](https://10.100.1.147/cloudcoder/#exercise?c=26,p=954) 
