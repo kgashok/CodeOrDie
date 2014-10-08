@@ -1,11 +1,15 @@
 ### Problem Sets for Iteration 1
 _Theme: Hello World Greetings_
  
-Problem 1 [VAA-1](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=940)([ o ](https://10.100.1.147/cloudcoder/#exercise?c=26,p=940))
+Problem 1 [VAA-1](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=940)
+Problem 2  [VAA-2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=941) 
+Problem 3 [VAA-3](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=942) 
+Problem 4 [VAA-4](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=943)
 
-Problem 2  [VAA-2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=941) Problem 3 [VAA-3](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=942) Problem 4 [VAA-4](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=943)
-
-Problem 5 [SEQ-1](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=944) Problem 6 [SEQ-2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=945) Problem 7 [SEQ-3](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=946) Problem 8 [SEQ-4](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=947)
+Problem 5 [SEQ-1](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=944) 
+Problem 6 [SEQ-2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=945) 
+Problem 7 [SEQ-3](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=946) 
+Problem 8 [SEQ-4](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=947)
 
 Problem 9 [SEL-1](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=949) 
 Problem 10 [SEL-2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=948) 
@@ -21,7 +25,9 @@ Problem 16 [ID-2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=954)
 Problem 17 [F-1](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=956) 
 Problem 18 [F-2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=955)
 Problem 19 [F-3](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=958)
-Problem 20 [Palindrome](https:cloudcoder.kgisl.com/cloudcoder/#exercise?c=7,p=855)
+Problem 20 [F-4](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=959)
+#### Bonus (a taste of what's ahead in Iteration 2)
+Problem 21 [Palindrome](https:cloudcoder.kgisl.com/cloudcoder/#exercise?c=7,p=855)
 
 
 #1 Variables and assignments and arithmetic
