@@ -20,9 +20,11 @@ Problem 16 [ID-2](https://10.100.1.147/cloudcoder/#exercise?c=26,p=954)
 Problem 17 [F-1](https://10.100.1.147/cloudcoder/#exercise?c=26,p=956) 
 Problem 18 [F-2](https://10.100.1.147/cloudcoder/#exercise?c=26,p=955)
 Problem 19 [F-3](https://10.100.1.147/cloudcoder/#exercise?c=30,p=958)
-Problem 20 [F-4](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=959)
+Problem 20 [F-4](https://10.100.1.147/cloudcoder/#exercise?c=30,p=959)
+
 #### Bonus (a taste of what's ahead in Iteration 2)
-Problem 21 [Palindrome](https:cloudcoder.kgisl.com/cloudcoder/#exercise?c=7,p=855)
+Problem 21 [Palindrome](https://10.100.1.147/cloudcoder/#exercise?c=7,p=855)
+
 
 #1 Variables and assignments and arithmetic
 Basic Mathematics 
