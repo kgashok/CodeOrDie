@@ -27,8 +27,7 @@ Problem 18 [F-2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=955)
 Problem 19 [F-3](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=958)
 Problem 20 [F-4](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=959)
 #### Bonus (a taste of what's ahead in Iteration 2)
-Problem 21 [Palindrome](https:cloudcoder.kgisl.com/cloudcoder/#exercise?c=7,p=855)
-
+Problem 21 [Palindrome](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=7,p=855)
 
 #1 Variables and assignments and arithmetic
 Basic Mathematics 
