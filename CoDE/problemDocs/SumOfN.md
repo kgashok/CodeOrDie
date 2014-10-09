@@ -1,5 +1,5 @@
 ### Sum of 'n' Numbers
-_Inspired by a Blockly Bug - http://goo.gl/NU2jT6 and/or http://goo.gl/jbswN2
+_Inspired by a Blockly Bug_ - http://goo.gl/NU2jT6 and/or http://goo.gl/jbswN2
 
 Write a C program to find the sum of 'n' consecutive numbers using the `for` loop.
 - `n` can also be 0; it does not necessarily have to be a positive value. 
