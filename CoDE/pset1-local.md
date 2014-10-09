@@ -1,5 +1,6 @@
 ### Problem Sets for Iteration 1
 _Theme: Hello World Greetings_
+- Some excellent advice on why you should use a [Code NoteBook](docs/Java%20Rockstar.md)
 
 ---
 **Variables, Assignments, Arithmetic**
