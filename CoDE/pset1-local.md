@@ -1,35 +1,48 @@
 ### Problem Sets for Iteration 1
 _Theme: Hello World Greetings_
 
-Problem 1 [VAA-1](https://10.100.1.147/cloudcoder/#exercise?c=26,p=940)
-Problem 2  [VAA-2](https://10.100.1.147/cloudcoder/#exercise?c=26,p=941) 
-Problem 3 [VAA-3](https://10.100.1.147/cloudcoder/#exercise?c=26,p=943) 
-Problem 4 [VAA-4](https://10.100.1.147/cloudcoder/#exercise?c=26,p=942)
+---
+**Variables, Assignments, Arithmetic**
+- Problem 1 [VAA-1](https://10.100.1.147/cloudcoder/#exercise?c=26,p=940)
+  Problem 2  [VAA-2](https://10.100.1.147/cloudcoder/#exercise?c=26,p=941) 
+  Problem 3 [VAA-3](https://10.100.1.147/cloudcoder/#exercise?c=26,p=943) 
+  Problem 4 [VAA-4](https://10.100.1.147/cloudcoder/#exercise?c=26,p=942)
 
-Problem 5 [SEQ-1](https://10.100.1.147/cloudcoder/#exercise?c=26,p=944) 
-Problem 6 [SEQ-2](https://10.100.1.147/cloudcoder/#exercise?c=26,p=945) 
-Problem 7 [SEQ-3](https://10.100.1.147/cloudcoder/#exercise?c=26,p=946) 
-Problem 8 [SEQ-4](https://10.100.1.147/cloudcoder/#exercise?c=26,p=947)
+---
+**Sequential** _"Cooking Recipe, step by step"_
+- Problem 5 [SEQ-1](https://10.100.1.147/cloudcoder/#exercise?c=26,p=944) 
+  Problem 6 [SEQ-2](https://10.100.1.147/cloudcoder/#exercise?c=26,p=945) 
+  Problem 7 [SEQ-3](https://10.100.1.147/cloudcoder/#exercise?c=26,p=946) 
+  Problem 8 [SEQ-4](https://10.100.1.147/cloudcoder/#exercise?c=26,p=947)
 
-Problem 9 [SEL-1](https://10.100.1.147/cloudcoder/#exercise?c=27,p=949) 
-Problem 10 [SEL-2](https://10.100.1.147/cloudcoder/#exercise?c=27,p=948) 
-Problem 11 [Smallest](https://10.100.1.147/cloudcoder/#exercise?c=27,p=888) 
+---
+**Selection/Conditionals** _"Decisions, decisions, decisions..."_
+- Problem 9 [SEL-1](https://10.100.1.147/cloudcoder/#exercise?c=27,p=949) 
+  Problem 10 [SEL-2](https://10.100.1.147/cloudcoder/#exercise?c=27,p=948) 
+  Problem 11 [Smallest](https://10.100.1.147/cloudcoder/#exercise?c=27,p=888) 
 
-Problem 12a [Natural](https://10.100.1.147/cloudcoder/#exercise?c=28,p=909)
-Problem 12 [DL-1](https://10.100.1.147/cloudcoder/#exercise?c=28,p=950) 
-Problem 13 [DL-2](https://10.100.1.147/cloudcoder/#exercise?c=28,p=951) 
-Problem 14 [DL-3](https://10.100.1.147/cloudcoder/#exercise?c=28,p=952) 
-Problem 15 [ID-1](https://10.100.1.147/cloudcoder/#exercise?c=28,p=953) 
-Problem 16 [ID-2](https://10.100.1.147/cloudcoder/#exercise?c=28,p=954) 
+---
+**Repetitions/Loops** _"Forever and forever..."_
+- Problem 12a [Natural](https://10.100.1.147/cloudcoder/#exercise?c=28,p=909)
+  Problem 12 [DL-1](https://10.100.1.147/cloudcoder/#exercise?c=28,p=950) 
+  Problem 13 [DL-2](https://10.100.1.147/cloudcoder/#exercise?c=28,p=951) 
+  Problem 14 [DL-3](https://10.100.1.147/cloudcoder/#exercise?c=28,p=952) 
+  Problem 15 [ID-1](https://10.100.1.147/cloudcoder/#exercise?c=28,p=953) 
+  Problem 16 [ID-2](https://10.100.1.147/cloudcoder/#exercise?c=28,p=954) 
+  - Problem 16a [Natural 2](https://10.100.1.147/cloudcoder/#exercise?c=28,p=961)
 
-Problem 17 [F-1](https://10.100.1.147/cloudcoder/#exercise?c=30,p=956) 
-Problem 18 [F-2](https://10.100.1.147/cloudcoder/#exercise?c=30,p=955)
-Problem 19 [F-3](https://10.100.1.147/cloudcoder/#exercise?c=30,p=958)
-Problem 20 [F-4](https://10.100.1.147/cloudcoder/#exercise?c=30,p=959)
+---
+**Function Calls** _"Anything is only a (function) call away!"_
+- Problem 17 [F-1](https://10.100.1.147/cloudcoder/#exercise?c=30,p=956) 
+  Problem 18 [F-2](https://10.100.1.147/cloudcoder/#exercise?c=30,p=955)
+  Problem 19 [F-3](https://10.100.1.147/cloudcoder/#exercise?c=30,p=958)
+  Problem 20 [F-4](https://10.100.1.147/cloudcoder/#exercise?c=30,p=959)
 
 #### Bonus (a taste of what's ahead in Iteration 2)
-Problem 21 [Palindrome](https://10.100.1.147/cloudcoder/#exercise?c=29,p=960)
+- Problem 21 [Palindrome](https://10.100.1.147/cloudcoder/#exercise?c=29,p=960)
 
+
+---
 
 #1 Variables and assignments and arithmetic
 Basic Mathematics 
