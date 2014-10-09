@@ -7,8 +7,9 @@ Problem sets for the programming blitz at KITE.
 
 
 ### Show and Tell
-- We shall use Blockly Maze to introduce Loops, Conditionals
+- We shall use **[Blockly Maze][Maze]** to introduce Loops, Conditionals
   - approx. 60min - 90min
+  - Alternative - [HourOfCode][Maze2]
 
 ### Problem Sets
 - A gentle, low-cognitive load, progressively challenging coverage of
@@ -21,3 +22,7 @@ Problem sets for the programming blitz at KITE.
 - How to learn [Regex](http://regexone.com/lesson/0) in the most elegant manner?
   - what can we learn from this? 
   - How to emulate this?
+
+
+[Maze]:http://goo.gl/C1Vk3w
+[Maze2]: http://studio.code.org/hoc/1
