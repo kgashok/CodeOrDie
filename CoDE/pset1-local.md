@@ -3,7 +3,7 @@ _Theme: Hello World Greetings_
 - Some excellent advice on why you should use a [Code NoteBook](docs/Java%20Rockstar.md)
 
 ---
-**Variables, Assignments, Arithmetic**
+**Variables, Assignments, Arithmetic** _"Memory is everything"_
 - Problem 1 [VAA-1](https://10.100.1.147/cloudcoder/#exercise?c=26,p=940)
   Problem 2  [VAA-2](https://10.100.1.147/cloudcoder/#exercise?c=26,p=941) 
   Problem 3 [VAA-3](https://10.100.1.147/cloudcoder/#exercise?c=26,p=943) 
