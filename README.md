@@ -15,8 +15,11 @@ Problem sets for the programming blitz at KITE.
 - A gentle, low-cognitive load, progressively challenging coverage of
   the most important programming constructs in the C Programming language.
 
-  - [Iteration 1](CoDE/pset1.md) - for external access
-  - [Iteration 1](CoDE/pset1-local.md) - for internal access
+  - [Iteration 1](CoDE/pset1-local.md) (Click [here](CoDE/pset1.md) for external access)
+
+### OOP in C++ Sets
+- Problem sets are available [here](CoDE/oop-local.md) ([here](CoDE/oop.md) for external access)
+
 
 ### Inspiration
 - How to learn [Regex](http://regexone.com/lesson/0) in the most elegant manner?
@@ -26,3 +29,7 @@ Problem sets for the programming blitz at KITE.
 
 [Maze]:http://goo.gl/C1Vk3w
 [Maze2]: http://studio.code.org/hoc/1
+[p1]: https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=18,p=520
+[p2]: https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=18,p=521
+[p3]: https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=18,p=522
+[p31]: https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=18,p=770
