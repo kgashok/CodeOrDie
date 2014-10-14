@@ -23,13 +23,15 @@ _Theme: Programming for Problem Solving_
 ---
 **Repetitions/Loops** _"Forever and forever..."_
 
-- [Palindrome](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=29,p=960)
-  [(int)](https://10.100.1.147/cloudcoder/#exercise?c=29,p=960)
-
+- Find the most frequent [fmf](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=18,p=868)
+  [(int)](https://10.100.1.147/cloudcoder/#exercise?c=18,p=868)
+  
+  
 ---
 **Function Calls** _"Anything and everything is only one (function) call away!"_
 
-- TBD
+- Is it a Palindrome? [Palindrome](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=29,p=960)
+  [(int)](https://10.100.1.147/cloudcoder/#exercise?c=29,p=960)
 
 ---
 
