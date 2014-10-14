@@ -1,5 +1,38 @@
-**Iteration 2 ** 
+### Problem Sets for Iteration 2
 _Theme: Programming for Problem Solving_
+
+- Some excellent advice on why you should use a [Code NoteBook](docs/Java%20Rockstar.md)
+
+---
+**Variables, Assignments, Arithmetic** _"Memory is everything"_
+- TBD 
+
+	 
+---
+**Sequential** _"Cooking Recipe, step by step"_
+
+- TBD 
+
+
+---
+**Selection/Conditionals** _"Decisions, decisions, decisions..."_
+
+- [FizzBizz]
+- [FizzBizzMix] 
+
+---
+**Repetitions/Loops** _"Forever and forever..."_
+
+- [Palindrome](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=29,p=960)
+  [(int)](https://10.100.1.147/cloudcoder/#exercise?c=29,p=960)
+
+---
+**Function Calls** _"Anything and everything is only one (function) call away!"_
+
+- TBD
+
+---
+
 # 1 & 2  Variables and Sequential
   - Swap the value of two variables
     - without function calls
