@@ -26,6 +26,12 @@ _Theme: Programming for Problem Solving_
 ---
 **Repetitions/Loops** _"Forever and forever..."_
 
+- [FizzBizzSeq](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=29,p=965)
+  [(int)](https://10.100.1.147/cloudcoder/#exercise?c=29,p=965)
+
+- [FizzBizzMixSeq](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=29,p=966)
+  [(int)](https://10.100.1.147/cloudcoder/#exercise?c=29,p=966)
+
 - Find the most frequent [fmf](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=18,p=868)
   [(int)](https://10.100.1.147/cloudcoder/#exercise?c=18,p=868)
   
@@ -47,8 +53,8 @@ _Theme: Programming for Problem Solving_
     - Complex number calculation
 
 #3 Selection / Conditionals
-  - LowerThan10 and LowerThanNofM
   - FizzBuzz and FizzBuzzMix
+  - LowerThan10 and LowerThanNofM
   - Anagrams
 
 #4 Repetition / Loops
