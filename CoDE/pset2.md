@@ -88,9 +88,11 @@ _Theme: Programming for Problem Solving_
   - Fibonacci numbers (non-memoized, and memoized)
 
 **Iteration 3**
- - Get a good mentor 
+ - Get a good mentor and ask him to coach you on more [challenges][Mentor20] 
    - Stroustrup: "A good mentor is the best help a student can have; 
                  maybe that's why they are not easy to find.” 
                  http://buff.ly/Z4kqLr #4thR
  - Get more challenging problems
  - Solve it along with him - watch him over his shoulder
+
+[Mentor20]:http://goo.gl/I3nHp1  "20 problems for Mentoring"
