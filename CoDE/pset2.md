@@ -43,6 +43,8 @@ _Theme: Programming for Problem Solving_
 - Is it a Palindrome? [Palindrome](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=29,p=960)
   [(int)](https://10.100.1.147/cloudcoder/#exercise?c=29,p=960)
 
+- Using Pointers in a Function [add_one](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=33,p=967)
+
 ---
 
 # 1 & 2  Variables and Sequential
