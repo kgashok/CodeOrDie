@@ -27,10 +27,11 @@ _Theme: Programming for Problem Solving_
 **Repetitions/Loops** _"Forever and forever..."_
 
 - [FizzBuzzSeq](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=29,p=965)
-  [(int)](https://10.100.1.147/cloudcoder/#exercise?c=29,p=965)
-
-- [FizzBuzzMixSeq](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=29,p=966)
+  [(int)](https://10.100.1.147/cloudcoder/#exercise?c=29,p=965) and 
+  [FizzBuzzMixSeq](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=29,p=966)
   [(int)](https://10.100.1.147/cloudcoder/#exercise?c=29,p=966)
+
+- [PrimeFactors](https://10.100.1.147/cloudcoder/#exercise?c=28,p=936) (solve it like a Kata)
 
 - Find the most frequent [fmf](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=18,p=868)
   [(int)](https://10.100.1.147/cloudcoder/#exercise?c=18,p=868)
