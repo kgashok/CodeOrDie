@@ -14,11 +14,14 @@ Problem sets for the programming blitz at KITE.
 ### Problem Sets
 - A gentle, low-cognitive load, progressively challenging coverage of
   the most important programming constructs in the C Programming language.
-
   - [Iteration 1](CoDE/pset1-local.md) (Click [here](CoDE/pset1.md) for external access)
+  - OOPs in C++ Sets
+    - Problem sets are available [here](CoDE/oop-local.md) ([here](CoDE/oop.md) for external access)
 
-### OOP in C++ Sets
-- Problem sets are available [here](CoDE/oop-local.md) ([here](CoDE/oop.md) for external access)
+### Ultimately
+- Reach out to a mentor and do as many challenging [problems][Mentor20] as possible
+
+[Mentor20]:http://goo.gl/I3nHp1  "20 problems for Mentoring"
 
 
 ### Inspiration
