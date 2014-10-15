@@ -86,3 +86,5 @@ How to test? Need basic **printing** capacity
 - Get more challenging problems
 	- Solve it along with him 
  		- watch him over his shoulder
+
+[Mentor20]:http://goo.gl/I3nHp1  "20 problems for Mentoring"
