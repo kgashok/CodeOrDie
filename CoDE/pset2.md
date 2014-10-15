@@ -17,19 +17,19 @@ _Theme: Programming for Problem Solving_
 ---
 **Selection/Conditionals** _"Decisions, decisions, decisions..."_
 
-- [FizzBizz](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=27,p=963)
+- [FizzBuzz](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=27,p=963)
   [(int)](https://10.100.1.147/cloudcoder/#exercise?c=27,p=963)
 
-- [FizzBizzMix](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=27,p=964)
+- [FizzBuzzMix](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=27,p=964)
   [(int)](https://10.100.1.147/cloudcoder/#exercise?c=27,p=964)
 
 ---
 **Repetitions/Loops** _"Forever and forever..."_
 
-- [FizzBizzSeq](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=29,p=965)
+- [FizzBuzzSeq](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=29,p=965)
   [(int)](https://10.100.1.147/cloudcoder/#exercise?c=29,p=965)
 
-- [FizzBizzMixSeq](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=29,p=966)
+- [FizzBuzzMixSeq](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=29,p=966)
   [(int)](https://10.100.1.147/cloudcoder/#exercise?c=29,p=966)
 
 - Find the most frequent [fmf](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=18,p=868)
