@@ -17,7 +17,9 @@ _Theme: Programming for Problem Solving_
 ---
 **Selection/Conditionals** _"Decisions, decisions, decisions..."_
 
-- [FizzBizz]
+- [FizzBizz](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=27,p=963)
+  [(int)](https://10.100.1.147/cloudcoder/#exercise?c=27,p=963)
+
 - [FizzBizzMix] 
 
 ---
