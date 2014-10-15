@@ -20,7 +20,8 @@ _Theme: Programming for Problem Solving_
 - [FizzBizz](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=27,p=963)
   [(int)](https://10.100.1.147/cloudcoder/#exercise?c=27,p=963)
 
-- [FizzBizzMix] 
+- [FizzBizzMix](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=27,p=964)
+  [(int)](https://10.100.1.147/cloudcoder/#exercise?c=27,p=964)
 
 ---
 **Repetitions/Loops** _"Forever and forever..."_
