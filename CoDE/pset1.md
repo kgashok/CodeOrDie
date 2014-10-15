@@ -25,13 +25,16 @@ _Theme: Hello World Greetings_
 
 ---
 **Repetitions/Loops** _"Forever and forever..."_
-- Problem 12a [Natural](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=28,p=909)
-  Problem 12 [DL-1](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=28,p=950) 
+- Problem 12a [Natural](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=28,p=909) 
+  (_don't sweat all the test cases, you'll get around to it when you tackle 16a_)
+  
+- Problem 12 [DL-1](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=28,p=950) 
   Problem 13 [DL-2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=28,p=951) 
   Problem 14 [DL-3](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=28,p=952) 
   Problem 15 [ID-1](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=28,p=953) 
   Problem 16 [ID-2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=28,p=954) 
-  - Problem 16a [Natural 2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=28,p=961)
+
+- Problem 16a [Natural 2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=28,p=961)
 
 ---
 **Function Calls** _"Anything and everything is only one (function) call away!"_
