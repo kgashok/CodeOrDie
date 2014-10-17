@@ -16,10 +16,13 @@ CodeOrDie
 
 ### Problem Sets
 - A gentle, low-cognitive load, progressively challenging coverage of
-  the most important programming constructs in the C Programming language.
+  the most important **programming constructs** in the C Programming language.
   - [Iteration 1](CoDE/pset1-local.md) (Click [here](CoDE/pset1.md) for external access)
   - OOPs in C++ Sets
     - Problem sets are available [here](CoDE/oop-local.md) ([here](CoDE/oop.md) for external access)
+
+### Problem Solving through Programming
+- Listen to the lectures [here](http://www.youtube.com/playlist?list=PL94CA590D7781A9B9)
 
 ### Ultimately
 - Reach out to a mentor and do as many challenging [problems][Mentor20] as possible
