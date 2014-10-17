@@ -2,6 +2,7 @@
 _Theme: Programming for Problem Solving_
 
 - Some excellent advice on why you should use a [Code NoteBook](docs/Java%20Rockstar.md)
+- What is the connection between Program and [Algorithm](docs/Algorithm%20and%20Program.PNG)?
 
 ---
 **Variables, Assignments, Arithmetic** _"Memory is everything"_
