@@ -40,9 +40,9 @@ _Theme: Programming for Problem Solving_
 
 - Find the 2nd largest value in an array [second](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=974)
   [(int)](https://10.100.1.147/cloudcoder/#exercise?c=30,p=974)
-- Find the most frequent [fmf](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=18,p=868)
-  [(int)](https://10.100.1.147/cloudcoder/#exercise?c=18,p=868)
-  
+- Find the 2nd largest unique value in an array [secU](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=975)
+  [(int)](https://10.100.1.147/cloudcoder/#exercise?c=30,p=975)
+
   
 ---
 **Function Calls** _"Anything and everything is only one (function) call away!"_
@@ -60,6 +60,10 @@ _Theme: Programming for Problem Solving_
 
 - Strings and Function Calls in C++
     - [FizzBuzz][fb] ([int][fbi]) and [FizzBuzzMix][fbm] ([int][fbmi])
+    - Find the most frequent [fmf](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=18,p=868)
+  [(int)](https://10.100.1.147/cloudcoder/#exercise?c=18,p=868)
+  
+
 
 [fb]: https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=971
 [fbm]: https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=972
