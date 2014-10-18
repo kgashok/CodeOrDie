@@ -40,7 +40,7 @@ _Theme: Programming for Problem Solving_
 
 - Find the 2nd largest value in an array [second](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=974)
   [(int)](https://10.100.1.147/cloudcoder/#exercise?c=30,p=974)
-- Find the 2nd largest unique value in an array [secU](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=975)
+  ; a challenging variant - [secU](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=975)
   [(int)](https://10.100.1.147/cloudcoder/#exercise?c=30,p=975)
 
   
