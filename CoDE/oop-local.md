@@ -5,7 +5,7 @@
 [fbmi]: https://10.100.1.147/cloudcoder/#exercise?c=30,p=972
 
 ###Templates
-  - Templated [Swap][swap]
+  - Generic [swap][swap] function
 
 [swap]: https://10.100.1.147/cloudcoder/#exercise?c=2,p=262
  

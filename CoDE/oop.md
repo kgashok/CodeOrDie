@@ -6,7 +6,7 @@
 
 
 ###Templates
- - Templated [Swap][swap]
+  - Generic [swap][swap] function
 
 [swap]: https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=2,p=262
  

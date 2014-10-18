@@ -38,6 +38,8 @@ _Theme: Programming for Problem Solving_
   [(int)](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=29,p=966)
   (solve it like a Kata)
 
+- Find the 2nd largest value in an array [second](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=974)
+  [(int)](https://10.100.1.147/cloudcoder/#exercise?c=30,p=974)
 - Find the most frequent [fmf](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=18,p=868)
   [(int)](https://10.100.1.147/cloudcoder/#exercise?c=18,p=868)
   
@@ -104,7 +106,7 @@ _Theme: Programming for Problem Solving_
 **Iteration 3**
  - Get a good mentor and ask him to coach you on more [challenges][Mentor20] 
    - Stroustrup: "A good mentor is the best help a student can have; 
-                 maybe that's why they are not easy to find.” 
+                 maybe that's why they are not easy to find.â€� 
                  http://buff.ly/Z4kqLr #4thR
  - Get more challenging problems
  - Solve it along with him - watch him over his shoulder
