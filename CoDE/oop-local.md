@@ -1,8 +1,8 @@
-Strings 
- - [FizzBuzz][fb] and [FizzBuzzMix][fbm] 
+Conditionals, Strings and Function Calls
+ - [FizzBuzz][fbi] and [FizzBuzzMix][fbmi] 
 
-[fb]: https://10.100.1.147/cloudcoder/#exercise?c=30,p=971
-[fbm]: https://10.100.1.147/cloudcoder/#exercise?c=30,p=972
+[fbi]: https://10.100.1.147/cloudcoder/#exercise?c=30,p=971
+[fbmi]: https://10.100.1.147/cloudcoder/#exercise?c=30,p=972
 
 Polymorphism, Pointers, Parameterization 
  - Pet Speak [1][p1], [2][p2], [3][p3] and [3.1][p31] 

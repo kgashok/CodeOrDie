@@ -1,4 +1,4 @@
-Strings 
+Conditionals, Strings and Function Calls
  - [FizzBuzz][fb] and [FizzBuzzMix][fbm] 
  
 [fb]: https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=971
