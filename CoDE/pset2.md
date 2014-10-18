@@ -1,6 +1,8 @@
 ### Problem Sets for Iteration 2
 _Theme: Programming for Problem Solving_
 
+**NOTE: Click on the (int) links if you are accessing CloudCoder from within the KGISL network**
+
 - Some excellent advice on why you should use a [Code NoteBook](docs/Java%20Rockstar.md)
 - What is the connection between Program and [Algorithm](docs/Algorithm%20and%20Programs.png)?
 
@@ -53,6 +55,15 @@ _Theme: Programming for Problem Solving_
     [(int)](https://10.100.1.147/cloudcoder/#exercise?c=33,p=967)
   - To Swap variable values [swap](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=33,p=924)
     [(int)](https://10.100.1.147/cloudcoder/#exercise?c=33,p=967)
+
+- Strings and Function Calls in C++
+    - [FizzBuzz][fb] ([int][fbi]) and [FizzBuzzMix][fbm] ([int][fbmi])
+
+[fb]: https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=971
+[fbm]: https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=972
+[fbi]: https://10.100.1.147/cloudcoder/#exercise?c=30,p=971
+[fbmi]: https://10.100.1.147/cloudcoder/#exercise?c=30,p=972
+
  
 ---
 
