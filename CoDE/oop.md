@@ -1,10 +1,17 @@
-Conditionals, Strings and Function Calls
+###Conditionals, Strings and Function Calls
  - [FizzBuzz][fb] and [FizzBuzzMix][fbm] 
  
 [fb]: https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=971
 [fbm]: https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=972
+
+
+###Templates
+ - Templated [Swap][swap]
+
+[swap]: https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=2,p=262
  
-Polymorphism, Pointers, Parameterization 
+
+###Polymorphism, Pointers, Parameterization 
  - Pet Speak [1][p1], [2][p2], [3][p3] and [3.1][p31]
  
  
