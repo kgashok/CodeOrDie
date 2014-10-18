@@ -1,7 +1,10 @@
 CodeOrDie
 =========
 
-Problem sets for the programming blitz at KITE. 
+"Computer science is the study of problems, problem-solving, and the solutions that come out of the problem-solving process. Given a problem, a computer scientist’s goal is to develop an algorithm, a step-by-step list of instructions for solving any instance of the problem that might arise. Algorithms are finite processes that if followed will solve the problem. Algorithms are solutions." http://buff.ly/1tz3gEe
+
+
+### Problem sets for the programming blitz at KITE 
 
 ![Image](CoDE/docs/Use%20it%20or%20Lose%20it%20Brain%20Power.PNG?raw=true)
 
@@ -13,10 +16,13 @@ Problem sets for the programming blitz at KITE.
 
 ### Problem Sets
 - A gentle, low-cognitive load, progressively challenging coverage of
-  the most important programming constructs in the C Programming language.
+  the most important **programming constructs** in the C Programming language.
   - [Iteration 1](CoDE/pset1-local.md) (Click [here](CoDE/pset1.md) for external access)
   - OOPs in C++ Sets
     - Problem sets are available [here](CoDE/oop-local.md) ([here](CoDE/oop.md) for external access)
+
+### Problem Solving through Programming
+- Listen to the lectures [here](http://www.youtube.com/playlist?list=PL94CA590D7781A9B9)
 
 ### Ultimately
 - Reach out to a mentor and do as many challenging [problems][Mentor20] as possible
