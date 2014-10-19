@@ -17,9 +17,10 @@ CodeOrDie
     - PC-2
     - Mentor guided sets (and many more, progressively challenging ones) 
   - Lab Reforms 
-  - Nifty assignments (personal Facebook, most visited pages in a website, etc)
+  - [Nifty][nifty] assignments (personal Facebook, most visited pages in a website, etc)
   - Projects 
 
+[nifty]: http://nifty.stanford.edu/
 
 ### Show and Tell
 - We shall use **[Blockly Maze][Maze]** to introduce Loops, Conditionals
