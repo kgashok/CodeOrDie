@@ -9,6 +9,17 @@ CodeOrDie
 ![Image](CoDE/docs/Use%20it%20or%20Lose%20it%20Brain%20Power.PNG?raw=true)
 
 
+### The Roadmap 
+- TEACH - Time, Effort (hard work), ambition (urgent), confidence, heart (passion, interest)
+- The Progression
+  - Problem sets
+   - PC-1 (looking for contributions, either extend or suggestion for replacement)
+   - PC-2 
+  - Lab Reforms 
+  - Nifty assignments (personal Facebook, most visited pages in a website, etc)
+  - Projects 
+
+
 ### Show and Tell
 - We shall use **[Blockly Maze][Maze]** to introduce Loops, Conditionals
   - approx. 60min - 90min
