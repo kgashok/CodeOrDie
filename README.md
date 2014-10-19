@@ -13,8 +13,9 @@ CodeOrDie
 - TEACH - Time, Effort (hard work), ambition (urgent), confidence, heart (passion, interest)
 - The Progression
   - Problem sets
-   - PC-1 (looking for contributions, either extend or suggestion for replacement)
-   - PC-2 
+    - PC-1 (looking for contributions, either extend or suggestion for replacement)
+    - PC-2
+    - Mentor guided sets (and many more, progressively challenging ones) 
   - Lab Reforms 
   - Nifty assignments (personal Facebook, most visited pages in a website, etc)
   - Projects 
