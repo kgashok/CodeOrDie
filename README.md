@@ -10,17 +10,19 @@ CodeOrDie
 
 
 ### The Roadmap 
-- TEACH - Time, Effort (hard work), ambition (urgent), confidence, heart (passion, interest)
+- TEACH - Time, Effort (hard work), ambition (urgent), confidence, heart (passion, interest, [fun][cff])
 - The Progression
   - Problem sets
     - PC-1 (looking for contributions, either extend or suggestion for replacement)
     - PC-2
     - Mentor guided sets (and many more, progressively challenging ones) 
   - Lab Reforms 
-  - [Nifty][nifty] assignments (personal Facebook, most visited pages in a website, etc)
+    - [Nifty][nifty] assignments (personal Facebook, most visited pages in a website, etc)
   - Projects 
+    - Coding for [Fun][cff] 
 
 [nifty]: http://nifty.stanford.edu/
+[cff]: http://buff.ly/10aGqpq
 
 ### Show and Tell
 - We shall use **[Blockly Maze][Maze]** to introduce Loops, Conditionals
