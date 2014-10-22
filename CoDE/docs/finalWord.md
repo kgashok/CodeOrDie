@@ -26,6 +26,9 @@ A **disproportionate** amount of time has been spent on this, starting with Udac
 Students must be encouraged to repeat the PC-1 and PC-2 sets on their own.
 Spaced repetition will help retain the skills better.
 
+### What's next?
+Students must be inspired to not only pursue incremental learning but also gain exposure to immersion learning (where students dare themselves to drink "directly from the firehose") through [Hackathons](https://www.facebook.com/hackforhealth?ref=bookmarks). Come join us there! 
+
 ### Further Action Items
 
 - Further to PC-1, which already presents 4 cycles of going through the constructs, we need to add at least 6 more. This can be developed in PC-2.
