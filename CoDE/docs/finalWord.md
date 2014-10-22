@@ -4,9 +4,9 @@ _Smart Content (through CloudCoder like tools) allows for Spaced Repetition with
 Domain-free, progressively-challenging introduction to programming is possible with the help of 
   - Blockly's Maze (as a Show and Tell demo + skill development)
   - The right problem sets (carefully crafted, PC-1 and PC-2 are in draft mode)
-    - A gentle, low-cognitive, domain-free (_almost_), progressively challenging 
-      coverage of the most important **programming constructs** 
-      in the C Programming language.
+    - A gentle, low-cognitive, domain-free (_a familiarity with standard IO 
+      is recommended_), progressively challenging coverage of the 
+      most important **programming constructs** in the C Programming language.
   - The right tool (to present the problem sets as `SmartContent`)
     - CloudCoder is good enough, and allows us to scale
     - `Self-confidence` improves as the tests are passed (`feedback`)
