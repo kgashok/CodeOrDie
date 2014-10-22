@@ -1,5 +1,5 @@
 # Fundamental Coding Skills Development
-_ Smart Content (through CloudCoder like tools) allows for Spaced Repetition with Instant Feedback (which is the best way to improve retention) at little or no cost._
+_Smart Content (through CloudCoder like tools) allows for Spaced Repetition with Instant Feedback (which is the best way to improve retention) at little or no cost._
 
 Domain-free, progressively-challenging introduction to programming is possible with the help of 
   - Blockly's Maze (as a Show and Tell demo + skill development)
