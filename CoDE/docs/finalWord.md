@@ -27,7 +27,7 @@ Students must be encouraged to repeat the PC-1 and PC-2 sets on their own.
 Spaced repetition will help retain the skills better.
 
 ### What's next?
-Students must be inspired to not only pursue **incremental** learning through _Problem Sets_ but also gain exposure to **immersion** learning (where students dare themselves to drink "directly from the firehose") through [Hackathons](https://www.facebook.com/hackforhealth?ref=bookmarks). Come join us there! 
+Students must be inspired to not only pursue **incremental** learning through _Problem Sets_ but also gain exposure to **immersion** learning (where students dare themselves to drink "directly from the firehose") through [Hackathons](https://www.facebook.com/hackforhealth?ref=bookmarks). Who knows whom you will meet there and what you might get inspired by. Be there!
 
 ### Further Action Items
 
