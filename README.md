@@ -30,6 +30,8 @@ CodeOrDie
   - Alternative - [HourOfCode][Maze2]
 
 ### Problem Sets
+_Pre-requisite: A familiarity with standard IO functions like printf and scanf is recommended, but not mandatory_
+
 - A gentle, low-cognitive, domain-free (almost), progressively challenging coverage of
   the most important **programming constructs** in the C Programming language.
   - [Iteration 1](CoDE/pset1-local.md) (Click [here](CoDE/pset1.md) for external access)
