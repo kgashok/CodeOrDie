@@ -30,7 +30,7 @@ CodeOrDie
   - Alternative - [HourOfCode][Maze2]
 
 ### Problem Sets
-- A gentle, low-cognitive load, progressively challenging coverage of
+- A gentle, low-cognitive, domain-free (almost), progressively challenging coverage of
   the most important **programming constructs** in the C Programming language.
   - [Iteration 1](CoDE/pset1-local.md) (Click [here](CoDE/pset1.md) for external access)
     - [CC-Intro-Local](https://10.100.1.147/cloudcoder/#exercise?c=26,p=957) 
