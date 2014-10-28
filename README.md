@@ -7,7 +7,7 @@ CodeOrDie
 ### Problem sets for the programming blitz at KITE 
 
 ![Image](CoDE/docs/Use%20it%20or%20Lose%20it%20Brain%20Power.PNG?raw=true)
-![Image](CoDE/docs/Problem%20to%20passion.jpg?raw=true)
+![Image](CoDE/docs/problem%20sets%20perspective.png?raw=true)
 
 ### The Roadmap 
 - TEACH - Time, Effort (hard work), ambition (urgent), confidence, heart (passion, interest, [fun][cff])
