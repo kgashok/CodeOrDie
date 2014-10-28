@@ -27,7 +27,7 @@ _"Programming is the Missing Link in Education"_
 ## Programming Constructs
 **Turing** and his 6 Primitive operations: "Computation must allow repetitive actions - do action A over and over until a certain condition is met. This amounts to staying in a state (and moving the tape head left or right) until a certain condition is met. Computation must also allow adaptive actions - if a certain condition is met, do action A; otherwise do action B. This is captured by state transitions according to the contents of the tape head at a particular location." http://buff.ly/1uoyBaW
 
-  - Fundamentals Constructs - Only 5!
+  - Fundamentals Constructs - Only 5? Okay, how about 7? (Read [here](analogy.md))
     - What do you need to build a house? [SO Answer](http://stackoverflow.com/a/10057916/307454)
   - [Advanced](https://en.wikipedia.org/wiki/Category:Programming_constructs) Constructs - 68?
 

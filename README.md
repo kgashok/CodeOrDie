@@ -9,15 +9,34 @@ CodeOrDie
 ![Image](CoDE/docs/Use%20it%20or%20Lose%20it%20Brain%20Power.PNG?raw=true)
 ![Image](docs/Problem%20to%20passion.jpg?raw=true)
 
+### The Roadmap 
+- TEACH - Time, Effort (hard work), ambition (urgent), confidence, heart (passion, interest, [fun][cff])
+- The Progression
+  - Problem sets
+    - PC-1 (looking for contributions, either extend or suggestion for replacement)
+    - PC-2
+    - Mentor guided sets (and many more, progressively challenging ones) 
+  - Lab Reforms 
+    - [Nifty][nifty] assignments (personal Facebook, most visited pages in a website, etc)
+  - Projects 
+    - Coding for [Fun][cff] 
+
+[nifty]: http://nifty.stanford.edu/
+[cff]: http://buff.ly/10aGqpq
+
 ### Show and Tell
 - We shall use **[Blockly Maze][Maze]** to introduce Loops, Conditionals
   - approx. 60min - 90min
   - Alternative - [HourOfCode][Maze2]
 
 ### Problem Sets
-- A gentle, low-cognitive load, progressively challenging coverage of
+_Pre-requisite: A familiarity with standard IO functions like **printf** and **scanf** is recommended, but not mandatory_
+
+- A gentle, low-cognitive, domain-free (almost), progressively challenging coverage of
   the most important **programming constructs** in the C Programming language.
   - [Iteration 1](CoDE/pset1-local.md) (Click [here](CoDE/pset1.md) for external access)
+    - [CC-Intro-Local](https://10.100.1.147/cloudcoder/#exercise?c=26,p=957) 
+    - [CC-Intro-Ext](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=978) 
   - OOPs in C++ Sets
     - Problem sets are available [here](CoDE/oop-local.md) ([here](CoDE/oop.md) for external access)
 
