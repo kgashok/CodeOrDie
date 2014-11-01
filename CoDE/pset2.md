@@ -14,7 +14,8 @@ _Theme: Programming for Problem Solving_
 ---
 **Sequential** _"Cooking Recipe, step by step"_
 
-- TBD 
+- Swap two variables - [Swap](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=2,p=217) 
+  [(int)](https://10.100.1.147/cloudcoder/#exercise?c=2,p=217)
 
 
 ---
