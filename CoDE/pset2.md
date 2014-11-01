@@ -8,8 +8,8 @@ _Theme: Programming for Problem Solving_
 
 ---
 **Variables, Assignments, Arithmetic** _"Memory is everything"_
-- TBD 
-
+- Character is everything - [CharArrays](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=1007)
+  [(int)](https://10.100.1.147/cloudcoder/#exercise?c=26,p=1007)
 	 
 ---
 **Sequential** _"Cooking Recipe, step by step"_
