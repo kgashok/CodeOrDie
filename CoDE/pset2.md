@@ -68,6 +68,16 @@ _Theme: Programming for Problem Solving_
     - Find the most frequent [fmf](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=18,p=868)
   [(int)](https://10.100.1.147/cloudcoder/#exercise?c=18,p=868)
   
+---
+**Iteration 3**
+ - Get a good mentor and ask him to coach you on more [challenges][Mentor20] 
+   - Stroustrup: "A good mentor is the best help a student can have; 
+                 maybe that's why they are not easy to find."
+                 http://buff.ly/Z4kqLr #4thR
+ - Get more challenging problems
+ - Solve it along with him - watch him over his shoulder
+
+[Mentor20]:http://goo.gl/I3nHp1  "20 problems for Mentoring"
 
 
 [fb]: https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=971
@@ -112,12 +122,3 @@ _Theme: Programming for Problem Solving_
   Recursion 
   - Fibonacci numbers (non-memoized, and memoized)
 
-**Iteration 3**
- - Get a good mentor and ask him to coach you on more [challenges][Mentor20] 
-   - Stroustrup: "A good mentor is the best help a student can have; 
-                 maybe that's why they are not easy to find."
-                 http://buff.ly/Z4kqLr #4thR
- - Get more challenging problems
- - Solve it along with him - watch him over his shoulder
-
-[Mentor20]:http://goo.gl/I3nHp1  "20 problems for Mentoring"
