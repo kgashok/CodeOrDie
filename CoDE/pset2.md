@@ -61,12 +61,12 @@ _Theme: Programming for Problem Solving_
 
 - Using Recursion
    - Recursively add and summate [RecursiveSum](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=31,p=1008)
-   - [(int)](https://10.100.1.147/cloudcoder/#exercise?c=31,p=1008) 
+     [(int)](https://10.100.1.147/cloudcoder/#exercise?c=31,p=1008) 
 
 - Strings and Function Calls in C++
     - [FizzBuzz][fb] ([int][fbi]) and [FizzBuzzMix][fbm] ([int][fbmi])
     - Find the most frequent [fmf](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=18,p=868)
-  [(int)](https://10.100.1.147/cloudcoder/#exercise?c=18,p=868)
+      [(int)](https://10.100.1.147/cloudcoder/#exercise?c=18,p=868)
   
 ---
 **Iteration 3**
