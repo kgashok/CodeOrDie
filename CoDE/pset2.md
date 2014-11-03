@@ -58,6 +58,8 @@ _Theme: Programming for Problem Solving_
     [(int)](https://10.100.1.147/cloudcoder/#exercise?c=33,p=967)
   - To Swap variable values [swap](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=33,p=924)
     [(int)](https://10.100.1.147/cloudcoder/#exercise?c=33,p=967)
+  - Convert integer to string equivalent [itoa](https://10.100.1.147/cloudcoder/#exercise?c=33,p=1015)
+    [(int)](https://10.100.1.147/cloudcoder/#exercise?c=33,p=1015)
 
 - Using Recursion
    - Recursively add and summate [RecursiveSum](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=31,p=1008)
