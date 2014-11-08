@@ -1,7 +1,9 @@
 ### Problem Sets for Iteration 2
 _Theme: Programming for Problem Solving_
 
-**NOTE: Click on the (int) links if you are accessing CloudCoder from within the KGISL network**
+Prerequisite: Complete [Iteration 1](pset1.md)
+
+**NOTE: Click on the `(int)` links if you are accessing CloudCoder from within the KGISL network**
 
 - Some excellent advice on why you should use a [Code NoteBook](docs/Java%20Rockstar.md)
 - What is the connection between Program and [Algorithm](docs/Algorithm%20and%20Programs.png)?
