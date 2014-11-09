@@ -60,6 +60,9 @@ Prerequisite: Complete [Iteration 1](pset1.md)
     [(int)](https://10.100.1.147/cloudcoder/#exercise?c=33,p=967)
   - To Swap variable values [swap](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=33,p=924)
     [(int)](https://10.100.1.147/cloudcoder/#exercise?c=33,p=967)
+  - Count vowels using `switch` statement [vowel_count](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=33,p=1078)
+    [(int)](https://10.100.1.147/cloudcoder/#exercise?c=33,p=1015)
+
   - Convert integer to string equivalent [itoa](https://10.100.1.147/cloudcoder/#exercise?c=33,p=1015)
     [(int)](https://10.100.1.147/cloudcoder/#exercise?c=33,p=1015)
 
