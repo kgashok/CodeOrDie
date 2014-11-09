@@ -45,7 +45,7 @@ _Theme: Hello World Greetings_
 
 #### Bonus (a taste of what's ahead in Iteration 2)
 - Problem 21 [Palindrome](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=29,p=960)
-
+- Function Decomposition of [Smallest](https://cloudcoder.kgisl.com/cloudcoder/#edit?c=30,p=1079)
 
 ---
 
