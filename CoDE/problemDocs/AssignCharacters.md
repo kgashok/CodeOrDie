@@ -8,7 +8,7 @@ This exercise gets you familiar with character variables and character strings.
    - What kind of variable type is suited for this?
      - `int` or `float` or `char`?
 3. Print the four variables in reverse order
-   - Use as many as four `printf` statements
+   - Use as many as four `printf` statements; print at least one space between the characters
 
 # Example
 - `"abcd" -> "d c b a"`
