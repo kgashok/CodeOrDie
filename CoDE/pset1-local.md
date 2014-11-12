@@ -16,6 +16,7 @@ _Theme: Hello World Greetings_
   Problem 6 [SEQ-2](https://10.100.1.147/cloudcoder/#exercise?c=26,p=945) 
   Problem 7 [SEQ-3](https://10.100.1.147/cloudcoder/#exercise?c=26,p=946) 
   Problem 8 [SEQ-4](https://10.100.1.147/cloudcoder/#exercise?c=26,p=947)
+  Problem 8a [CharacterAssign](https://10.100.1.147/cloudcoder/#exercise?c=26,p=1007)
 
 ---
 **Selection/Conditionals** _"Decisions, decisions, decisions..."_
@@ -41,7 +42,9 @@ _Theme: Hello World Greetings_
   Problem 20 [F-4](https://10.100.1.147/cloudcoder/#exercise?c=30,p=959)
 
 #### Bonus (a taste of what's ahead in Iteration 2)
-- Problem 21 [Palindrome](https://10.100.1.147/cloudcoder/#exercise?c=29,p=960)
+- Problem 21 [Palindrome](https://10.100.1.147/cloudcoder/#exercise?c=29,p=960) 
+(attempt   Problem 8a [CharacterAssign](https://10.100.1.147/cloudcoder/#exercise?c=26,p=1007) first)
+
 - Function Decomposition of [Smallest](https://10.100.1.147/cloudcoder/#edit?c=30,p=1079)
 
 ---
