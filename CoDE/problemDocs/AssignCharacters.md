@@ -15,3 +15,5 @@ This exercise gets you familiar with character variables and character strings.
 - `"fame" -> "e m a f"`
 - `"deed" -> "d e e d"`   // what is the name of a word which reads the same backwards?` 
 - `"string" -> "i r t s"`
+
+_To edit this file, click [this](https://github.com/kgashok/CodeOrDie/blob/master/CoDE/problemDocs/AssignCharacters.md)_
