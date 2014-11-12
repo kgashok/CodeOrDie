@@ -3,7 +3,7 @@ _Theme: Hello World Greetings_
 - Some excellent advice on why you should use a [Code NoteBook](docs/Java%20Rockstar.md)
 
 ---
-**Variables, Assignments, Arithmetic** _"Memory is everything"_
+#### Variables, Assignments, Arithmetic** _"Memory is everything"_
 - Problem 1 [VAA-1](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=940)
   Problem 2  [VAA-2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=941) 
   Problem 3 [VAA-3](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=943) 
@@ -11,7 +11,7 @@ _Theme: Hello World Greetings_
   Problem 5 [Tell Me](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=962)
 
 ---
-**Sequential** _"Cooking Recipe, step by step"_
+#### Sequential** _"Cooking Recipe, step by step"_
 - Problem 5 [SEQ-1](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=944) 
   Problem 6 [SEQ-2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=945) 
   Problem 7 [SEQ-3](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=946) 
@@ -19,13 +19,13 @@ _Theme: Hello World Greetings_
   Problem 8a [CharacterAssign](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=1007)
 
 ---
-**Selection/Conditionals** _"Decisions, decisions, decisions..."_
+#### Selection/Conditionals** _"Decisions, decisions, decisions..."_
 - Problem 9 [SEL-1](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=27,p=949) 
   Problem 10 [SEL-2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=27,p=948) 
   Problem 11 [Smallest](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=27,p=888) 
 
 ---
-**Repetitions/Loops** _"Forever and forever..."_
+#### Repetitions/Loops** _"Forever and forever..."_
 - Problem 12a [Natural](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=28,p=909) 
   (_don't sweat all the test cases, you'll get around to it when you tackle 16a_)
   
@@ -38,7 +38,7 @@ _Theme: Hello World Greetings_
 - Problem 16a [Natural 2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=28,p=961)
 
 ---
-**Function Calls** _"Anything and everything is only one (function) call away!"_
+#### Function Calls** _"Anything and everything is only one (function) call away!"_
 - Problem 17 [F-1](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=956) 
   Problem 18 [F-2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=955)
   Problem 19 [F-3](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=958)
