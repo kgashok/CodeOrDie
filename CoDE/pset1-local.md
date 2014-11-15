@@ -38,7 +38,7 @@ _Theme: Hello World Greetings_
   - Problem 16a [Natural 2](https://10.100.1.147/cloudcoder/#exercise?c=28,p=961)
 
 ---
-**Function Calls** _"Anything and everything is only one (function) call away!"_
+**Function Calls** _"Anything and everything is only one (function) call away! Software APIs will rule the world!"_
 - Problem 17 [F-1](https://10.100.1.147/cloudcoder/#exercise?c=30,p=956) 
   Problem 18 [F-2](https://10.100.1.147/cloudcoder/#exercise?c=30,p=955)
   Problem 19 [F-3](https://10.100.1.147/cloudcoder/#exercise?c=30,p=958)
