@@ -47,6 +47,7 @@ _Pre-requisite: A familiarity with standard IO functions like **printf** and **s
 
 ### Ultimately
 - Reach out to a mentor and do as many challenging [problems][Mentor20] as possible
+- Create a Sphero + Blockly + QuadCopter combination for solving a Maze Challenge
 
 [Mentor20]:http://goo.gl/I3nHp1  "20 problems for Mentoring"
 
