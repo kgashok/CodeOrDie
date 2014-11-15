@@ -12,6 +12,7 @@ _Theme: Hello World Greetings_
 
 ---
 **Sequential** _"Cooking Recipe, step by step"_
+- Problem 5a [Add100](https://10.100.1.147/cloudcoder/#exercise?c=28,p=1093)
 - Problem 5 [SEQ-1](https://10.100.1.147/cloudcoder/#exercise?c=26,p=944) 
   Problem 6 [SEQ-2](https://10.100.1.147/cloudcoder/#exercise?c=26,p=945) 
   Problem 7 [SEQ-3](https://10.100.1.147/cloudcoder/#exercise?c=26,p=946) 
@@ -26,12 +27,14 @@ _Theme: Hello World Greetings_
 
 ---
 **Repetitions/Loops** _"Forever and forever..."_
+- Problem 12b [Multiply](https://10.100.1.147/cloudcoder/#exercise?c=28,p=1094)
 - Problem 12a [Natural](https://10.100.1.147/cloudcoder/#exercise?c=28,p=909)
   Problem 12 [DL-1](https://10.100.1.147/cloudcoder/#exercise?c=28,p=950) 
   Problem 13 [DL-2](https://10.100.1.147/cloudcoder/#exercise?c=28,p=951) 
   Problem 14 [DL-3](https://10.100.1.147/cloudcoder/#exercise?c=28,p=952) 
   Problem 15 [ID-1](https://10.100.1.147/cloudcoder/#exercise?c=28,p=953) 
   Problem 16 [ID-2](https://10.100.1.147/cloudcoder/#exercise?c=28,p=954) 
+  - Problem 16b [Divide](https://10.100.1.147/cloudcoder/#exercise?c=28,p=1095)
   - Problem 16a [Natural 2](https://10.100.1.147/cloudcoder/#exercise?c=28,p=961)
 
 ---
