@@ -8,6 +8,7 @@ CodeOrDie
 
 ![Image](CoDE/docs/Use%20it%20or%20Lose%20it%20Brain%20Power.PNG?raw=true)
 ![Image](CoDE/docs/problem%20sets%20perspective.png?raw=true)
+Click here for a [overview][PC1_Layout]
 
 ### The Roadmap 
 - **TEACH** - Time, Effort (hard work), ambition (urgent), confidence, heart (passion, interest, [fun][cff])
@@ -55,7 +56,7 @@ _Pre-requisite: A familiarity with standard IO functions like **printf** and **s
   - what can we learn from this? 
   - How to emulate this?
 
-
+[PC1_Layout]: https://drive.google.com/file/d/0Bwu4iGPfYEufUFhSY2xBdEZfZlE/view?usp=sharing?
 [Maze]:http://goo.gl/C1Vk3w
 [Maze2]: http://studio.code.org/hoc/1
 [p1]: https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=18,p=520
