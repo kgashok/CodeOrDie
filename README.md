@@ -10,7 +10,7 @@ CodeOrDie
 ![Image](CoDE/docs/problem%20sets%20perspective.png?raw=true)
 
 ### The Roadmap 
-- TEACH - Time, Effort (hard work), ambition (urgent), confidence, heart (passion, interest, [fun][cff])
+- **TEACH** - Time, Effort (hard work), ambition (urgent), confidence, heart (passion, interest, [fun][cff])
 - The Progression
   - Problem sets
     - PC-1 (looking for contributions, either extend or suggestion for replacement)
@@ -25,6 +25,7 @@ CodeOrDie
 [cff]: http://buff.ly/10aGqpq
 
 ### Show and Tell
+![Image](CoDE/docs/moveForward.png?raw=true)
 - We shall use **[Blockly Maze][Maze]** to introduce Loops, Conditionals
   - approx. 60min - 90min
   - Alternative - [HourOfCode][Maze2]
