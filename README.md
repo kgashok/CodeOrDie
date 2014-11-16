@@ -14,6 +14,8 @@ _It took a long time for society to realize the benefits of teaching everyone to
 Click here for a [overview][PC1_Layout]
 
 ### The Roadmap 
+_The PC-1 content + a 1:1 Mentoring Ratio involving an Enthusiastic Faculty + a Motivated Student who is willing to struggle + 4 Doses will generate fundamental C Programming Skills. And that's a guarantee._
+
 - **TEACH** - Time, Effort (hard work), ambition (urgent), confidence, heart (passion, interest, [fun][cff])
 - The Progression
   - Problem sets
@@ -47,7 +49,7 @@ _Pre-requisite: A familiarity with standard IO functions like **printf** and **s
 
 ### Problem Solving through Programming
 - Listen to the lectures [here](http://www.youtube.com/playlist?list=PL94CA590D7781A9B9)
-
+- Anton Spraul on Problem Solving on [YouTube](http://goo.gl/TrOv0F)
 ### Ultimately
 - Reach out to a mentor and do as many challenging [problems][Mentor20] as possible
 - Create a Sphero + Blockly + QuadCopter combination for solving a Maze Challenge
