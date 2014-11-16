@@ -50,6 +50,7 @@ _Pre-requisite: A familiarity with standard IO functions like **printf** and **s
 ### Problem Solving through Programming
 - Listen to the lectures [here](http://www.youtube.com/playlist?list=PL94CA590D7781A9B9)
 - Anton Spraul on Problem Solving on [YouTube](http://goo.gl/TrOv0F)
+
 ### Ultimately
 - Reach out to a mentor and do as many challenging [problems][Mentor20] as possible
 - Create a Sphero + Blockly + QuadCopter combination for solving a Maze Challenge
