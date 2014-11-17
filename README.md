@@ -19,7 +19,8 @@ _The PC-1 content + a 1:1 Mentoring Ratio involving an Enthusiastic Faculty + a 
 - **TEACH** - Time, Effort (hard work), ambition (urgent), confidence, heart (passion, interest, [fun][cff])
 - The Progression
   - Problem sets
-    - PC-1 (looking for contributions, either extend or suggestion for replacement)
+    - PC-1 (_needs refactoring_)
+      - Dose-0, Dose-1, Dose-2, Dose-3 ([_SpacedRepetition_](http://en.wikipedia.org/wiki/Spaced_repetition))
     - PC-2
     - Mentor guided sets (and many more, progressively challenging ones) 
   - Lab Reforms 
