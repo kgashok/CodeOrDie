@@ -1,6 +1,8 @@
 ### Problem Sets for Iteration 1
 _Theme: Hello World Greetings_
 - Some excellent advice on why you should use a [Code NoteBook](docs/Java%20Rockstar.md)
+- The Basics Of Computer Programming 101 - Variables And DataTypes http://buff.ly/1oYIkEs
+- The Absolute Basics Of Programming For Beginners (Part 2) http://buff.ly/1uoon9n
 
 ---
 **Variables, Assignments, Arithmetic** _"Memory is everything"_
