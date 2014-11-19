@@ -32,8 +32,7 @@ _Theme: Hello World Greetings_
 ---
 #### Repetitions/Loops _"Forever and forever..."_
 - Problem 12b [Multiply](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=28,p=1094)
-- Problem 12a [Natural](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=28,p=909) 
-  (_don't sweat all the test cases, you'll get around to it when you tackle 16a_)
+  Problem 12a [Natural](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=28,p=909) 
   
 - Problem 12 [DL-1](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=28,p=950) 
   Problem 13 [DL-2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=28,p=951) 
@@ -52,7 +51,7 @@ _Theme: Hello World Greetings_
 
 #### Bonus (a taste of what's ahead in [Iteration 2](pset2.md) [ /ext](http://goo.gl/QJ5QUi))
 - Problem 21 [Palindrome](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=29,p=960)
-  (attempt   Problem 8a [CharacterAssign](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=1007) first)
+  (attempt   Problem 8a [CharacterAssign](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=1007) and/or Problem 9a [Alphabets](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=1096) first)
 - Function Decomposition of [Smallest](https://cloudcoder.kgisl.com/cloudcoder/#edit?c=30,p=1079)
 
 ---
