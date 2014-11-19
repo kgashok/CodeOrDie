@@ -54,6 +54,8 @@ Prerequisite: Complete [Iteration 1](pset1.md)
   [(int)](https://10.100.1.147/cloudcoder/#exercise?c=29,p=960)
 
 - Using Pointers
+  - To Reverse a string [Reverse](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=7,p=191)
+    [(int)](https://10.100.1.147/cloudcoder/#exercise?c=7,p=191)
   - in a Function [add_one](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=33,p=967)
     [(int)](https://10.100.1.147/cloudcoder/#exercise?c=33,p=967)
   - To access a 5-element array [arrayAccess](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=33,p=920)
