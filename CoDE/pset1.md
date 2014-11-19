@@ -49,7 +49,7 @@ _Theme: Hello World Greetings_
   Problem 19 [F-3](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=958)
   Problem 20 [F-4](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=959)
 
-#### Bonus (a taste of what's ahead in Iteration 2)
+#### Bonus (a taste of what's ahead in [Iteration 2](pset2.md)
 - Problem 21 [Palindrome](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=29,p=960)
   (attempt   Problem 8a [CharacterAssign](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=1007) first)
 - Function Decomposition of [Smallest](https://cloudcoder.kgisl.com/cloudcoder/#edit?c=30,p=1079)
