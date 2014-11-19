@@ -43,13 +43,13 @@ _Theme: Hello World Greetings_
 - Problem 16a [Natural 2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=28,p=961)
 
 ---
-#### Function Calls _"Anything and everything is only one (function) call away!"_
+#### Function Calls _"Anything and everything is only one (function) call away! Software APIs will rule the world!"_
 - Problem 17 [F-1](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=956) 
   Problem 18 [F-2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=955)
   Problem 19 [F-3](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=958)
   Problem 20 [F-4](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=959)
 
-#### Bonus (a taste of what's ahead in [Iteration 2](pset2.md))
+#### Bonus (a taste of what's ahead in [Iteration 2](pset2.md) [ /ext](http://goo.gl/QJ5QUi))
 - Problem 21 [Palindrome](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=29,p=960)
   (attempt   Problem 8a [CharacterAssign](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=1007) first)
 - Function Decomposition of [Smallest](https://cloudcoder.kgisl.com/cloudcoder/#edit?c=30,p=1079)
