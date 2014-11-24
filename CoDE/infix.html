@@ -1,0 +1,13 @@
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+		<h2>
+			For &quot;2 * ( 3 + 4 ) / 7&quot;, how postfix is generated</h2>
+		<p>
+			Follow the simulation below - current stage is 2 3 4 + ; On reading &#39;/&#39; token, it pops the * in the stack and goes on to add 7 and then &#39;/&#39; later on...</p>
+		<p>
+			&nbsp;<iframe frameborder="0" height="1000" src="http://pythontutor.com/iframe-embed.html#code=class+Stack%3A%0A+++++def+__init__(self)%3A%0A+++++++++self.items+%3D+%5B%5D%0A%0A+++++def+isEmpty(self)%3A%0A+++++++++return+self.items+%3D%3D+%5B%5D%0A%0A+++++def+push(self,+item)%3A%0A+++++++++self.items.append(item)%0A%0A+++++def+pop(self)%3A%0A+++++++++return+self.items.pop()%0A%0A+++++def+peek(self)%3A%0A+++++++++return+self.items%5Blen(self.items)-1%5D%0A%0A+++++def+size(self)%3A%0A+++++++++return+len(self.items)%0A+++++++++%0Adef+infixToPostfix(infixexpr)%3A%0A++++prec+%3D+%7B%7D%0A++++prec%5B%22*%22%5D+%3D+3%0A++++prec%5B%22/%22%5D+%3D+3%0A++++prec%5B%22%2B%22%5D+%3D+2%0A++++prec%5B%22-%22%5D+%3D+2%0A++++prec%5B%22(%22%5D+%3D+1%0A++++opStack+%3D+Stack()%0A++++postfixList+%3D+%5B%5D%0A++++tokenList+%3D+infixexpr.split()%0A%0A++++for+token+in+tokenList%3A%0A++++++++if+token+in+%22ABCDEFGHIJKLMNOPQRSTUVWXYZ%22+or+token+in+%220123456789%22%3A%0A++++++++++++postfixList.append(token)%0A++++++++elif+token+%3D%3D+'('%3A%0A++++++++++++opStack.push(token)%0A++++++++elif+token+%3D%3D+')'%3A%0A++++++++++++topToken+%3D+opStack.pop()%0A++++++++++++while+topToken+!%3D+'('%3A%0A++++++++++++++++postfixList.append(topToken)%0A++++++++++++++++topToken+%3D+opStack.pop()%0A++++++++else%3A%0A++++++++++++while+(not+opStack.isEmpty())+and+%5C%0A+++++++++++++++(prec%5BopStack.peek()%5D+%3E%3D+prec%5Btoken%5D)%3A%0A++++++++++++++++++postfixList.append(opStack.pop())%0A++++++++++++opStack.push(token)%0A%0A++++while+not+opStack.isEmpty()%3A%0A++++++++postfixList.append(opStack.pop())%0A++++return+%22+%22.join(postfixList)%0A%0Aprint(infixToPostfix(%222+*+(+3+%2B+4+)+/+7%22))%0A%23print(infixToPostfix(%22(+A+%2B+B+)+*+C+-+(+D+-+E+)+*+(+F+%2B+G+)%22))%0A&amp;origin=opt-frontend.js&amp;cumulative=false&amp;heapPrimitives=false&amp;drawParentPointers=false&amp;textReferences=false&amp;showOnlyOutputs=false&amp;py=2&amp;rawInputLstJSON=%5B%5D&amp;curInstr=79&amp;codeDivWidth=350&amp;codeDivHeight=400" width="1600"></iframe></p>
+	</body>
+</html>
