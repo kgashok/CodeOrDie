@@ -3,7 +3,7 @@ CodeOrDie
 
 "Computer science is the study of problems, problem-solving, and the solutions that come out of the problem-solving process. Given a problem, a computer scientist’s goal is to develop an algorithm, a step-by-step list of instructions for solving any instance of the problem that might arise. Algorithms are finite processes that if followed will solve the problem. Algorithms are solutions." http://buff.ly/1tz3gEe
 
-_It took a long time for society to realize the benefits of teaching everyone to **read**; now the question before us is whether everyone should **learn** to program. What do you think?_
+:bulb: _It took a long time for society to realize the benefits of teaching everyone to **read**; now the question before us is whether everyone should **learn** to program. What do you think?_
 - Don Knuth: Programming, of course, is not just an ordinary subject. It is intrinsically empowering, and applicable to many different kinds of knowledge. And I also know that you've been having enormous successes, at Princeton and online, teaching advanced concepts of programming to students from every discipline. http://buff.ly/1zt4sI6 #4thR
 
 If you're a scientist or engineer, programming can enable you to work 10 to 100 times faster and to come up with more creative solutions than your colleagues who don't know how to program. [Read the rest of this article at the CACM blog](http://cacm.acm.org/blogs/blog-cacm/166115-why-scientists-and-engineers-must-learn-programming/fulltext) 
