@@ -1,6 +1,9 @@
 ### Problem Sets for Iteration 1
 _Theme: Hello World Greetings_
 - Some excellent advice on why you should use a [Code NoteBook](docs/Java%20Rockstar.md)
+- If You Are a Student Interested in a Software Job… | Dorai's Learn Log http://buff.ly/1u4c4N8
+
+### Recommended Reading 
 - The Basics Of Computer Programming 101 - Variables And DataTypes http://buff.ly/1oYIkEs
 - The Absolute Basics Of Programming For Beginners (Part 2) http://buff.ly/1uoon9n
 
