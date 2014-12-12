@@ -55,7 +55,7 @@ _Theme: Hello World Greetings_
 #### Bonus (a taste of what's ahead in [Iteration 2](pset2.md) [ /ext](http://goo.gl/QJ5QUi))
 - Problem 21 [Palindrome](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=29,p=960)
   (attempt   Problem 8a [CharacterAssign](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=1007) and/or Problem 9a [Alphabets](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=1096) first)
-- Function Decomposition of [Smallest](https://cloudcoder.kgisl.com/cloudcoder/#edit?c=30,p=1079)
+- Function Decomposition of [Smallest](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=1079)
 
 ---
 
