@@ -51,7 +51,7 @@ _Theme: Hello World Greetings_
 - Problem 21 [Palindrome](https://10.100.1.147/cloudcoder/#exercise?c=29,p=960) 
 (attempt   Problem 8a [CharacterAssign](https://10.100.1.147/cloudcoder/#exercise?c=26,p=1007) and/or Problem 9a [Alphabets](https://10.100.1.147/cloudcoder/#exercise?c=26,p=1096) first)
 
-- Function Decomposition of [Smallest](https://10.100.1.147/cloudcoder/#edit?c=30,p=1079)
+- Function Decomposition of [Smallest](https://10.100.1.147/cloudcoder/#exercise?c=30,p=1079)
 
 ---
 
