@@ -66,6 +66,7 @@ _Pre-requisite: A familiarity with standard IO functions like **printf** and **s
 - How to learn [Regex](http://regexone.com/lesson/0) in the most elegant manner?
   - what can we learn from this? 
   - How to emulate this?
+  - What improvements?
 
 [PC1_Layout]: https://drive.google.com/file/d/0Bwu4iGPfYEufUFhSY2xBdEZfZlE/view?usp=sharing?
 [Maze]:http://goo.gl/C1Vk3w
