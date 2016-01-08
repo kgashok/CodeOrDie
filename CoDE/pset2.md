@@ -82,7 +82,7 @@ Prerequisite: Complete [Iteration 1](pset1.md)
  - Get a good mentor and ask him to coach you on more [challenges][Mentor20] 
    - Stroustrup: "A good mentor is the best help a student can have; 
                  maybe that's why they are not easy to find."
-                 http://buff.ly/Z4kqLr #4thR
+                 http://j.mp/codeMentorKG #4thR
  - Get more challenging problems
  - Solve it along with him - watch him over his shoulder
 
