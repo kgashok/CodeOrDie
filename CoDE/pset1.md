@@ -19,6 +19,7 @@ _Theme: Hello World Greetings_
 ---
 #### Sequential _"Cooking Recipe, step by step"_
 - Problem 5a [Add100](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=28,p=1093)
+- Problem 5b [Lucas sequence](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=7,p=1731)
 - Problem 5 [SEQ-1](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=944) 
   Problem 6 [SEQ-2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=945) 
   Problem 7 [SEQ-3](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=946) 
