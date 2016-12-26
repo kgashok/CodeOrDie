@@ -10,27 +10,19 @@ _Theme: Hello World Greetings_
 ---
 #### Variables, Assignments, Arithmetic _"Memory is everything"_
 
-- Problem 1 [VAA-1](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=940)
-  Problem 2  [VAA-2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=941) 
-  Problem 3 [VAA-3](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=943) 
-  Problem 4 [VAA-4](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=942)
-  Problem 5 [Tell Me](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=962)
+- Problem 1 [VAA-1](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=940) Problem 2  [VAA-2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=941) Problem 3 [VAA-3](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=943) Problem 4 [VAA-4](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=942) Problem 5 [Tell Me](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=962)
 
 ---
 #### Sequential _"Cooking Recipe, step by step"_
 - Problem 5a [Add100](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=28,p=1093)
 - Problem 5b [Lucas sequence](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=7,p=1731)
-- Problem 5 [SEQ-1](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=944) 
-  Problem 6 [SEQ-2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=945) 
-  Problem 7 [SEQ-3](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=946) 
-  Problem 8 [SEQ-4](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=947)
+- Problem 5 [SEQ-1](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=944) Problem 6 [SEQ-2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=945) Problem 7 [SEQ-3](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=946) Problem 8 [SEQ-4](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=947)
   Problem 8a [CharacterAssign](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=1007)
 
 ---
 #### Selection/Conditionals _"Decisions, decisions, decisions..."_
 - Problem 9a [Alphabets](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=26,p=1096)
-- Problem 9 [SEL-1](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=27,p=949) 
-  Problem 10 [SEL-2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=27,p=948) 
+- Problem 9 [SEL-1](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=27,p=949) Problem 10 [SEL-2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=27,p=948) 
   Problem 11 [Smallest](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=27,p=888) 
 
 ---
@@ -38,21 +30,15 @@ _Theme: Hello World Greetings_
 - Problem 12b [Multiply](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=28,p=1094)
   Problem 12a [Natural](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=28,p=909) 
   
-- Problem 12 [DL-1](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=28,p=950) 
-  Problem 13 [DL-2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=28,p=951) 
-  Problem 14 [DL-3](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=28,p=952) 
-  Problem 15 [ID-1](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=28,p=953) 
-  Problem 16 [ID-2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=28,p=954) 
+- Problem 12 [DL-1](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=28,p=950) Problem 13 [DL-2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=28,p=951) Problem 14 [DL-3](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=28,p=952) Problem 15 [ID-1](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=28,p=953) Problem 16 [ID-2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=28,p=954) 
 - Problem 16b [Divide](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=28,p=1095)
 - Problem 16a [Natural 2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=28,p=961)
 
 ---
 #### Function Calls _"Anything and everything is only one (function) call away! Software APIs will rule the world!"_
-- Problem 17 [F-1](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=956) 
-  Problem 18 [F-2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=955)
-  Problem 19 [F-3](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=958)
-  Problem 20 [F-4](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=959)
+- Problem 17 [F-1](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=956) Problem 18 [F-2](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=955) Problem 19 [F-3](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=958)Problem 20 [F-4](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=30,p=959)
   Problem 21  [Diagonals](http://cloudcoder.kgkite.ac.in/cloudcoder/#exercise?c=67,p=1705) (pattern generation)
+  Problem 22 [Incrementing](http://cloudcoder.kgkite.ac.in/cloudcoder/#exercise?c=30,p=3070)
 
 #### Bonus (a taste of what's ahead in [Iteration 2](pset2.md) [ /ext](http://goo.gl/QJ5QUi))
 - Problem 21 [Palindrome](https://cloudcoder.kgisl.com/cloudcoder/#exercise?c=29,p=960)
@@ -79,4 +65,3 @@ If you are a student and is really interested in a software job,  some actual pr
 - It may be a good idea to earn while you learn. It is not just the money, but it is the feeling that someone values what you have done enough to pay for it.
 - Find a master programmer to work with.  How do you know they are masters? Pretty simple. Take a piece of code they have written and read it. It will read like an essay – elegant, beautiful and clear. A couple of years of apprentice with such great programmers will do more to accelerate your learning than any other activity.
 - Just learning the standard languages they teach you in your institution is not enough. Practice and feel the joy of programming. You will know whether you like it or not.  If you enjoy it, it will show, when you talk to people about it.
-
