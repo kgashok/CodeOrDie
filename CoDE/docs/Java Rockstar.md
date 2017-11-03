@@ -2,7 +2,7 @@ How to become Java/C++ Expert? Quora answer at http://qr.ae/xRBgR
 
 You'll become a **Java/C++ rockstar** if...
 
-###Coding
+### Coding
 - Try to write programs in a notebook first.
 - Dry run it and state the expected outcome.
 - Compile and run it and check the output.
@@ -15,7 +15,7 @@ You'll become a **Java/C++ rockstar** if...
 - Learn better programming styles.
 - Attempt the questions of Java/C++ certification programmes, they will bring more clarity.
 
-###Increasing core computer basics
+### Increasing core computer basics
 - Understand basic technologies working behind the computer - databases, networks, operating systems, compilers.
 - Learn how the Java/C++ compiler works.
 
